@@ -1,0 +1,2 @@
+# girilensay
+for döngü
